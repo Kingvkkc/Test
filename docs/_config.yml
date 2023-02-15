@@ -1,10 +1,10 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
+url: "https://kingvkkc.github.io"
+baseurl: "/Test"
 siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+siteYear: 2023
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
@@ -13,7 +13,7 @@ showinSearchEngines: true
 # Set basic server info
 serverName: Moonrise MC
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverIP: 157.90.181.156:7229
 useBedrockForOnlineStatus: false
 
 
